@@ -58,6 +58,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Reservation__c.Market__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Reservation__c.Space__c</field>
         <readable>true</readable>
     </fieldPermissions>
