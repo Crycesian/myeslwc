@@ -9,7 +9,7 @@
             "changeTime": 1557816534694,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -20,11 +20,11 @@
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1557883060715,
+            "modifiedTime": 1557816534694,
             "changeTime": 1557816534694,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1557884801729,
-            "changeTime": 1557884801729,
-            "contentHash": "eb694dd6595580782d43d96a3e28f9a725685aa1"
+            "modifiedTime": 1557821032766,
+            "changeTime": 1557821032766,
+            "contentHash": "5bf797a99c7097d8557ea4a356d29bfddb34e84d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1557816534694,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1557816534695,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -82,7 +82,7 @@
             "changeTime": 1557816624991,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -376,14 +376,14 @@
     [
         "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
             "isDirectory": false,
+            "size": 2329,
+            "modifiedTime": 1557821032580,
+            "changeTime": 1557821032580,
+            "contentHash": "61f2cadf7bedba8a5a953934f2b5bd2fab42b0cf",
             "isMetadataFile": true,
-            "size": 2331,
-            "modifiedTime": 1557884801717,
-            "changeTime": 1557884801717,
-            "contentHash": "d9d9a60538bd3a49f28a16dc7651d0d36b174aed"
+            "state": "u"
         }
     ],
     [
@@ -506,14 +506,14 @@
     [
         "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3208,
-            "modifiedTime": 1557884801725,
-            "changeTime": 1557884801725,
-            "contentHash": "0df30aa1e1c48d510ede758f5158f7a652263f93"
+            "modifiedTime": 1557821032617,
+            "changeTime": 1557821032617,
+            "contentHash": "5ec5808fc48457ce90c31d4d5774b9bc94178a98",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -571,14 +571,14 @@
     [
         "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 3470,
             "modifiedTime": 1557823525547,
             "changeTime": 1557823525547,
-            "contentHash": "6387cf44a8411286e11e41443b2775ac7008260f",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "6387cf44a8411286e11e41443b2775ac7008260f"
         }
     ],
     [
@@ -601,10 +601,10 @@
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9678,
-            "modifiedTime": 1557884801801,
-            "changeTime": 1557884801801,
-            "contentHash": "f273962540549cd540f343b010663be686c7ca18"
+            "size": 9323,
+            "modifiedTime": 1557823525584,
+            "changeTime": 1557823525584,
+            "contentHash": "745649ad91745547d4c3c234d250d8269ddde74f"
         }
     ],
     [
@@ -614,10 +614,10 @@
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9338,
-            "modifiedTime": 1557884801825,
-            "changeTime": 1557884801825,
-            "contentHash": "b85a37d1dccf12b6157f6e45ec06f7b359f92a12"
+            "size": 8983,
+            "modifiedTime": 1557823525608,
+            "changeTime": 1557823525608,
+            "contentHash": "febda86acbbda2c516d46d14c249b0f119f8a73e"
         }
     ],
     [
@@ -627,10 +627,10 @@
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9342,
-            "modifiedTime": 1557884801853,
-            "changeTime": 1557884801853,
-            "contentHash": "d309702176f224fd57cb8964a60dc622817c8c3c"
+            "size": 8987,
+            "modifiedTime": 1557823525646,
+            "changeTime": 1557823525646,
+            "contentHash": "1dd9645c78f6035fe3efba9709ffe87e8d4db904"
         }
     ],
     [
@@ -640,10 +640,10 @@
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 24715,
-            "modifiedTime": 1557884801941,
-            "changeTime": 1557884801941,
-            "contentHash": "a7cb5e853c3951d47d67c72f5bc10392d0941446"
+            "size": 24360,
+            "modifiedTime": 1557823525714,
+            "changeTime": 1557823525714,
+            "contentHash": "ba89aa446cbd795971730951c8f53e1fb354d758"
         }
     ],
     [
@@ -714,14 +714,14 @@
     [
         "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557823525519,
             "changeTime": 1557823525519,
-            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d"
         }
     ],
     [
@@ -805,105 +805,14 @@
     [
         "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 508,
             "modifiedTime": 1557823525519,
             "changeTime": 1557823525519,
-            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\permissionsets",
-        {
-            "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\permissionsets",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1557823225793,
-            "changeTime": 1557823225793,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\permissionsets",
-        {
-            "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\permissionsets",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1557823281928,
-            "changeTime": 1557823281958,
-            "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 8605,
-            "modifiedTime": 1557884801957,
-            "changeTime": 1557884801957,
-            "contentHash": "121cfbef38272638f94341dd0ea4ef437df8dea4"
-        }
-    ],
-    [
-        "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 220,
-            "modifiedTime": 1557884801729,
-            "changeTime": 1557884801729,
-            "contentHash": "ceb248a73fb162f1dcf8d2d3ef566b30b1095fb1"
-        }
-    ],
-    [
-        "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 222,
-            "modifiedTime": 1557884801733,
-            "changeTime": 1557884801733,
-            "contentHash": "ff506785c917a6b374fe18c75294ca8df3cd5764"
-        }
-    ],
-    [
-        "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 222,
-            "modifiedTime": 1557884801733,
-            "changeTime": 1557884801733,
-            "contentHash": "33d296690a642082e57b8b9dbd236b3aece5a091"
-        }
-    ],
-    [
-        "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\tabs",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\jcbag\\dev\\myeslwc\\force-app\\main\\default\\tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1557884801733,
-            "changeTime": 1557884801733,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef"
+            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa"
         }
     ]
 ]
